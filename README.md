@@ -87,7 +87,6 @@ project-management-tool
 │   │   └── api
 │
 └── README.md
-```
 
 ## Author
 
